@@ -35,3 +35,6 @@ node_modules
 # Local env files, but leave templates
 .env*
 !.env.template*
+
+# python files
+*.pyc
